@@ -1,0 +1,14 @@
+{
+  "name": "meilleur-jourvie-proxy",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4",
+    "dotenv": "^16.0.2"
+  }
+}
